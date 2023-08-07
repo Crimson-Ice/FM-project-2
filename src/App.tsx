@@ -38,7 +38,9 @@ function App() {
                             src="icon-cart.svg"
                             alt="cart logo"
                         />
-                        <span className="text-White">Add to Cart</span>
+                        <span className="font-semibold text-White">
+                            Add to Cart
+                        </span>
                     </button>
                 </div>
             </div>
